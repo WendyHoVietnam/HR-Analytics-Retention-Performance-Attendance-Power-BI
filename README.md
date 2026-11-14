@@ -132,7 +132,7 @@ Datasets consists of 4 tables used to build the dashboard:
 **Dashboard Review**
 
 ### 1. Workforce Overview 
-![Workforce Overview](/Screenshot/Overview.png)
+![Workforce Overview](Overview.png)
 
 
 **Key finding**
@@ -163,7 +163,7 @@ Datasets consists of 4 tables used to build the dashboard:
 --- 
 ### 2. Attendance Analysis
 
-![Attendance Analysis](/Screenshot/Attendance.png)
+![Attendance Analysis](Attendance.png)
 
 **1. Overall** attendance looks healthy at a glance, but the Late Arrival Rate tells a different story. Absent Rate is low (3%) and Attendance Rate is high (97%), which on the surface looks strong. However, There are 60% of employee late for 15 minutes which meaning 
 
@@ -188,7 +188,7 @@ Datasets consists of 4 tables used to build the dashboard:
 ---
 ### 3. Attrition & Recruitment Analysis
 
-![Attrition & Recruitment](/Screenshot/Recruitment%20&%20Attrition.png)
+![Attrition & Recruitment](Recruitment%20&%20Attrition.png)
 
 **Key finding**
 
@@ -210,7 +210,7 @@ Datasets consists of 4 tables used to build the dashboard:
 
 ### 4. Performance Analysis
 
-![Performance](/Screenshot/Performance.png)
+![Performance](Performance.png)
 
 **Key finding**
 
