@@ -125,8 +125,8 @@ Datasets consists of 4 tables used to build the dashboard:
 
 ## 3. Design Thinking Process
 
-![](/Screenshot/1.jpg)
-![](/Screenshot/2.jpg)
+![](1.jpg)
+![](2.jpg)
 ---
 ## 4. Key Insights & Visualization
 **Dashboard Review**
